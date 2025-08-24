@@ -10,4 +10,4 @@ When developing programs, similar to designing software, I look at what the prog
 
 - How can computer science help me in reaching my goals?
 
-Compuster science helps me hone my problem-solving skills when it comes to finding the best way to develop a program/software. Additionally, developing and programming can help me become more innovative, which in turn can help me find new ideas to effiecently develop programs and software.
+Computer science helps me hone my critical thinking skills, which is key when it comes to software developing. Additionally, computer science makes us adaptable, since learning new tools and methodologies keeps us up to date and competitive when it comes to potential job positions.  Lastly, there is versatility. Since computer science teaches us a multitude of different skills, it can prepare us for different kinds of work in various industries.
